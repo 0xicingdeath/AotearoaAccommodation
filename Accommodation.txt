@@ -1,0 +1,141 @@
+20
+KatiKati
+People at Kati Kati College
+August
+1
+House
+0.0
+N/A
+KatiKati
+KatiKati College
+August
+2
+House
+0.0
+No extra information
+Hamilton
+Narrows Park
+August
+3
+Cabin
+23.07
+N/A
+Turangi
+Club Habitat
+August
+4
+Holiday Park
+16.14
+N/A
+Porirua
+Camp Eldson
+August
+5
+Dormitory
+10.17
+N/A
+Porirua
+Camp Eldson
+August
+6
+Dormitory
+10.17
+N/A
+Kaikoura
+Kaikoura Motels and Holiday Parks
+August
+7
+Motel and Holiday Park
+19.64
+N/A
+Kaiapoi
+Blue Skies Conference and Training Centre 
+August
+8
+Cabin
+18.57
+N/A
+Dunedin
+Dunedin Holiday Park
+August
+9
+Holiday Park
+22.07
+N/A
+Arrowtown
+Arrowtown Holiday park
+August 
+10
+Holiday Park
+17.87
+N/A
+Arrowtown
+Arrowtown Holiday Park
+August
+11
+Holiday Park
+17.87
+N/A
+Wanaka
+People at Mount Aspiring College
+August
+12
+House
+0.0
+N/A
+Hokitika
+Hokitika Holiday Park
+August
+13
+Holiday Park
+22.42
+N/A
+Nelson
+Brook Valley Holiday Park
+August
+14
+Holiday Park
+22.28
+N/A
+Porirua 
+Camp Eldson
+August
+15
+Dormitory
+10.71
+N/A
+Rotorua
+Blue Lake Top 10 Holiday Park
+August
+16
+Holiday Park
+24.71
+N/A
+Rotorua
+Blue Lake Top 10 Holiday Park
+August
+17
+Holiday Park
+24.71
+N/A
+Rotorua
+Blue Lake Top 10 Holiday Park
+August
+18
+Holiday Park
+24.71
+N/A
+KatiKati
+People at KatiKati College
+August
+19
+House
+0.0
+N/A
+Auckland
+Kokako Lodge
+August
+20
+Lodge
+18.85
+N/A
